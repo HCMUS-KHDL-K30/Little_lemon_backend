@@ -123,10 +123,4 @@ The diagram showcases the key components of the app, including menus, orders, re
 | `/api/reservations/{id}` | Customer | PUT    | Update reservation options eg. num of guests, date, time, occasion..etc |
 | `/api/reservations/{id}` | Customer | DELETE | Cancel a reservation                                                    |
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Author
-
-Created by [Mehdi Ait Ouchrif](https://github.com/mehdiaitouchrif).
